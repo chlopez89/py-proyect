@@ -11,7 +11,7 @@ def test_calculate_total_with_empty_list():
 def test_calculate_total_with_single_product():
     products = [
         {
-            "name": "Notebook", 
+            "name": "Notebook",
             "price": 5
         }
     ]
